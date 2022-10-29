@@ -1,6 +1,12 @@
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
+
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFacebook } from '@fortawesome/free-solid-svg-icons'
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
